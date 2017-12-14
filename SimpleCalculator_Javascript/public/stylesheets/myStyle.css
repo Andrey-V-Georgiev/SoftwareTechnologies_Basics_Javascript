@@ -1,0 +1,45 @@
+.navbar-header, .navbar-default, .navbar-toggle:hover {
+    background-color: purple !important;
+}
+
+.navbar-toggle {
+    background-color: #ff1405;
+}
+
+div.well
+{
+    background-color: #15ff03;
+    border-radius: 500px 5px 500px 5px;
+
+}
+
+.navbar-brand{
+    background-color: #ff1405;
+    border-radius: 10px;
+}
+
+.navbar-brand:hover{
+    background-color: #ff1405;
+    border-radius: 20px;
+}
+
+.form-control{
+    background-color: #f9ff95;
+    width:130px;
+
+    margin-left: 150px;
+    border-radius: 200px 5px 200px 5px;
+}
+
+div.col-sm-2{
+    margin-left: 95px;
+}
+
+.btn.btn-primary{
+    background-color: #11aa12;
+    border-color: pink;
+    border-radius: 200px 5px 200px 5px;
+
+    margin-left: 60px;
+    width: 200px;
+}
